@@ -1,0 +1,46 @@
+# — Project docs
+# Remove if you want to track HELP.md
+# HELP.md
+
+# — Maven build outputs
+**/target/
+**/build/
+
+# — Maven wrapper (committed by default)
+# .mvn/wrapper/maven-wrapper.jar
+
+# — IDEs & editors
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# — OS & editor temp files
+.DS_Store
+Thumbs.db
+*~
+
+# — Logs
+/log/
+/logs/
+*.log
